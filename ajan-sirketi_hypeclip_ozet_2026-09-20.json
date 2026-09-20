@@ -1,0 +1,39 @@
+{
+  "tarih": "2026-09-20",
+  "birim": "HypeClip Media",
+  "arastirmaOzeti": "Büyük podcast prodüksiyonlarının (Diary of a CEO, Trash Taste, Theo Von) resmi klip kanalı modeli izinli işbirliği için somut bir şablon sunuyor; Eklipse'in açık creator ödül programı platform onaylı bir klip fırsatı olarak öne çıkıyor, The Traitors S4 final anı ise yüksek ilgi gören ama lisans yolu henüz netleşmemiş bir reality-TV trendi.",
+  "adaylar": [
+    {
+      "baslik": "The Diary Of A CEO Clips (resmi kanal)",
+      "format": "Podcast/röportaj klipleri",
+      "izinYolu": "Steven Bartlett yapım ekibi tarafından işletilen resmi klip kanalı; işbirliği/lisans için yapımcıya doğrudan ulaşılabilir",
+      "kaynak_url": "https://www.youtube.com/@TheDiaryOfACEOClips"
+    },
+    {
+      "baslik": "Trash Taste Highlights (resmi kanal)",
+      "format": "Komedi/anime podcast öne çıkanları",
+      "izinYolu": "Program sahiplerince işletilen resmi 'Highlights' kanalı; benzer izinli klip ortaklığı modeli için yapımcıyla iletişime geçilebilir",
+      "kaynak_url": "https://www.youtube.com/@TrashTasteClips"
+    },
+    {
+      "baslik": "This Past Weekend w/ Theo Von — Theo Von Clips (resmi kanal)",
+      "format": "Komedi/röportaj podcast klipleri",
+      "izinYolu": "Yapımcı tarafından işletilen resmi klip kanalı; ortaklık için yapım ekibine ulaşılabilir",
+      "kaynak_url": "https://www.youtube.com/c/TheoVonClips"
+    },
+    {
+      "baslik": "Eklipse Creator Rewards Programı",
+      "format": "Twitch/YouTube canlı yayın klip ödül programı",
+      "izinYolu": "Platform onaylı, açık katılımlı resmi creator ödül/klip programı",
+      "kaynak_url": "https://blog.eklipse.gg/streaming-tips/beginner-guide/how-to-become-a-clipper.html"
+    },
+    {
+      "baslik": "The Traitors Sezon 4 final roundtable viral anı",
+      "format": "Reality yarışma",
+      "izinYolu": "Henüz izinli/lisanslı kanal tespit edilmedi; dönüşümsel yorum-video (reaksiyon+analiz, fair-use benzeri) olarak değerlendirilebilir, yayıncıyla lisans görüşmesi önerilir",
+      "kaynak_url": "https://www.tvline.com/2183864/best-tv-moments-2026/"
+    }
+  ],
+  "dikkatNotu": "The Traitors adayı için resmi lisans/izin yolu henüz belirlenmedi; yayıncı ile görüşülmeden klip üretimine geçilmemeli.",
+  "createdAt": 1789884000000
+}
