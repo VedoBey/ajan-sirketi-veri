@@ -1,17 +1,17 @@
 {
- "hafta": "2026-W38",
- "tarih": "2026-09-20",
- "sizintiBulundu": false,
- "sizintiDetay": [],
- "ajanOnerileriDegerlendirmesi": [],
- "kaynaksizBrifingMaddesi": [
-  {
-   "dosya": "ajan-sirketi_brifing_2026-09-17.json",
-   "madde": "Hürmüz Boğazı krizi küresel enerji arzını vuruyor",
-   "sorun": "kaynak_url alanı dolu ama konuyla örtüşmüyor: aynı listede Fed toplantısı haberi için kullanılan kiplinger.com/fed-meeting-updates URL'si tekrar kullanılmış, muhtemelen yanlış/kopyala-yapıştır kaynak."
-  }
- ],
- "genelDurum": "dikkat",
- "denetciGozlemi": "Bu haftanın (2026-W38) güvenlik denetim dosyası ve Denetçi durum dosyası, bugünün asıl fikirler/brifing içerik dosyalarından önce (16:10 vs 16:11-16:12) oluşturulmuş bulundu; muhtemelen seed/test verisi ama süreç bütünlüğü açısından not edilmeye değer. Bu denetim gerçek içerik yeniden okunarak bağımsız şekilde yapılmıştır.",
- "createdAt": 1789927796000
+  "hafta": "2026-W38",
+  "tarih": "2026-09-20",
+  "sizintiBulundu": false,
+  "sizintiDetay": [],
+  "ajanOnerileriDegerlendirmesi": [],
+  "kaynaksizBrifingMaddesi": [
+    {
+      "dosya": "ajan-sirketi_brifing_2026-09-17.json",
+      "madde": "Hürmüz Boğazı krizi küresel enerji arzını vuruyor",
+      "sorun": "kaynak_url alanı dolu ama konuyla örtüşmüyor: aynı listede Fed toplantısı haberi için kullanılan kiplinger.com/fed-meeting-updates URL'si tekrar kullanılmış, muhtemelen yanlış/kopyala-yapıştır kaynak."
+    }
+  ],
+  "genelDurum": "dikkat",
+  "denetciGozlemi": "Bu haftanın (2026-W38) güvenlik denetim dosyası ve Denetçi durum dosyası, bugünün asıl fikirler/brifing içerik dosyalarından önce (16:10 vs 16:11-16:12) oluşturulmuş bulundu; muhtemelen seed/test verisi ama süreç bütünlüğü açısından not edilmeye değer. Bu denetim gerçek içerik yeniden okunarak bağımsız şekilde yapılmıştır.",
+  "createdAt": 1789927796000
 }
