@@ -1,0 +1,53 @@
+{
+ "tarih": "2026-09-21",
+ "gundemler": [
+  {
+   "alan": "finans",
+   "baslik": "Fed şahin sinyaller veriyor, haftanın gündemi yoğun",
+   "ozet": "Fed Başkanı Warsh fiyat istikrarını vurgulayıp net bir yönlendirme vermedi; 21-25 Eylül haftasında Xi'nin ABD ziyareti, küresel Flash PMI verileri, Avustralya istihdam rakamları ve İsviçre Merkez Bankası (SNB) faiz kararı takip edilecek.",
+   "kaynak_url": "https://www.newsquawk.com/headlines/week-in-focus--21-25th-september-2026-highlights-include-xis-visit-to-the-us-global-flash-pmis-aussie-jobs-and-the-snb-rate-decision",
+   "yorum": "Piyasa oynaklığı artabilir; Enes'in bu hafta yeni bir yan iş/anlaşma başlatmak yerine mevcut işlerini sağlama almaya odaklanması daha güvenli olabilir."
+  },
+  {
+   "alan": "finans",
+   "baslik": "AI odaklı serbest çalışma (freelance) piyasası hızla büyüyor",
+   "ozet": "Upwork verilerine göre AI ile ilişkili freelance iş ilanları yıllık %109 arttı (diğer kategorilerde %23); AI projeleri üstlenen freelancer'lar platform ortalamasından %44 daha fazla kazanıyor ve saatlik $75-200 arası ücretlendirebiliyor.",
+   "kaynak_url": "https://www.jobbers.io/the-freelance-skills-demand-index-2026/",
+   "yorum": "Bu, Enes'in ANA HEDEFi olan aylık ~$1000 yan gelir için doğrudan bir fırsat penceresi: AI destekli hizmetlere (otomasyon, içerik, entegrasyon) yönelen talep somut biçimde büyüyor."
+  },
+  {
+   "alan": "uluslararasi",
+   "baslik": "Trump-Xi Washington Zirvesi 24 Eylül'de",
+   "ozet": "Trump ve Xi, 2026'nın ikinci zirvesinde 24 Eylül'de Washington'da bir araya geliyor; gündemde ticaret ve yatırım, stratejik istikrar çerçevesi, AI rekabeti, İran ve Tayvan konuları var.",
+   "kaynak_url": "https://www.ttnews.com/articles/trump-xi-meeting-sept-2026",
+   "yorum": "AI rekabeti zirvenin resmi gündem maddelerinden biri; çıkacak ticaret/ihracat kısıtları AI araç erişimini ve fiyatlarını dolaylı etkileyebilir, takipte kalmakta fayda var."
+  },
+  {
+   "alan": "uluslararasi",
+   "baslik": "BM Genel Sekreteri çok kutupluluğu vurguladı, ateşkes çağrılarını yineledi",
+   "ozet": "BM Genel Sekreteri, artan çok kutupluluğu küresel yönetişimde adalet için olumlu bir gelişme olarak nitelendirdi; Ukrayna'da tam ve derhal ateşkes, Gazze'de mevcut ateşkese saygı çağrısı yaptı.",
+   "kaynak_url": "https://www.globalsecurity.org/military/library/news/2026/09/mil-260901-unbrief01.htm",
+   "yorum": "Enes'in doğrudan ilgi alanı dışında; jeopolitik arka plan olarak takip edilebilir."
+  },
+  {
+   "alan": "teknoloji",
+   "baslik": "OpenAI, GPT-6 Astra'yı duyurdu: 'AGI çağı' iddiası",
+   "ozet": "OpenAI, computer-use, kodlama, siber güvenlik ve bilimde son teknoloji olduğunu belirttiği GPT-6 Astra'yı 3-4 Eylül'de kullanıma sundu; şirket bunun AGI'nin başlangıcı olabileceğini söylüyor ve model, hazırlık çerçevesinde 'Kritik' siber güvenlik yeteneği seviyesine ulaşan ilk model oldu.",
+   "kaynak_url": "https://openai.com/index/gpt-6-astra/",
+   "yorum": "Computer-use ve çok adımlı görev otomasyonu yetenekleri, Enes'in öğrenip hizmete dönüştürebileceği somut bir beceri alanı; erken öğrenen avantajı olabilir."
+  },
+  {
+   "alan": "teknoloji",
+   "baslik": "Kurumsal uygulamalarda görev-özel AI ajanları hızla yaygınlaşıyor",
+   "ozet": "Gartner'a göre 2026 sonuna kadar kurumsal uygulamaların %40'ı görev-özel AI ajanları içerecek (2025'te %5'in altı); bu da 'AI ajanı kurucusu/entegratörü/operatörü' adında yeni bir freelance kategorisi yaratıyor.",
+   "kaynak_url": "https://www.jobbers.io/how-to-use-ai-agents-to-run-your-freelance-business-the-2026-automation-playbook/",
+   "yorum": "Enes için düşük riskli görevlerden (araştırma ön hazırlığı, toplantı notu, destek triyajı, içerik taslağı) başlayarak küçük işletmelere AI ajan kurulum hizmeti sunmak somut bir gelir modeli olabilir."
+  }
+ ],
+ "tavsiyeler": [
+  "GPT-6 Astra gibi modellerin 'computer use' ve çok adımlı görev otomasyonu yeteneklerini uygulamalı öğrenip, bunu küçük işletmelere sunulacak bir 'AI ajan kurulumu/otomasyonu' hizmetine dönüştürmeyi değerlendirebilirsin.",
+  "Upwork/Fiverr gibi platformlarda AI ile ilişkili iş taleplerinin %109 büyüdüğünü göz önünde bulundurarak, düşük riskli görevlerden (araştırma özeti, toplantı notu, içerik taslağı, destek triyajı) oluşan dar kapsamlı bir hizmet paketiyle ilk müşterilerini bulmayı deneyebilirsin.",
+  "Trump-Xi zirvesi sonrası olası AI/teknoloji ticaret düzenlemelerini takip ederek, orta vadede 'AI uyum/regülasyon danışmanlığı' gibi niş bir uzmanlık alanına yatırım yapmayı değerlendirebilirsin."
+ ],
+ "createdAt": 1789961400000
+}

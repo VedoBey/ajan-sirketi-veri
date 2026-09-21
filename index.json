@@ -1,1 +1,20 @@
-{"dosyalar": ["ajan-sirketi_brifing_2026-09-17.json", "ajan-sirketi_brifing_2026-09-20.json", "ajan-sirketi_calisanlar_denetci.json", "ajan-sirketi_calisanlar_fink.json", "ajan-sirketi_calisanlar_hypeclip_scout.json", "ajan-sirketi_calisanlar_kurucu.json", "ajan-sirketi_calisanlar_yonetici.json", "ajan-sirketi_denetim_2026-W38.json", "ajan-sirketi_denetim_guvenlik_2026-W38.json", "ajan-sirketi_fikirler_2026-09-17.json", "ajan-sirketi_fikirler_2026-09-20.json", "ajan-sirketi_hypeclip_ozet_2026-09-17.json", "ajan-sirketi_hypeclip_ozet_2026-09-20.json"], "guncellendi": "2026-09-20T21:00:00Z"}
+{
+ "dosyalar": [
+  "ajan-sirketi_brifing_2026-09-17.json",
+  "ajan-sirketi_brifing_2026-09-20.json",
+  "ajan-sirketi_brifing_2026-09-21.json",
+  "ajan-sirketi_calisanlar_denetci.json",
+  "ajan-sirketi_calisanlar_fink.json",
+  "ajan-sirketi_calisanlar_hypeclip_scout.json",
+  "ajan-sirketi_calisanlar_kurucu.json",
+  "ajan-sirketi_calisanlar_yonetici.json",
+  "ajan-sirketi_denetim_2026-W38.json",
+  "ajan-sirketi_denetim_guvenlik_2026-W38.json",
+  "ajan-sirketi_fikirler_2026-09-17.json",
+  "ajan-sirketi_fikirler_2026-09-20.json",
+  "ajan-sirketi_fikirler_2026-09-21.json",
+  "ajan-sirketi_hypeclip_ozet_2026-09-17.json",
+  "ajan-sirketi_hypeclip_ozet_2026-09-20.json"
+ ],
+ "guncellendi": "2026-09-21T04:36:36Z"
+}
