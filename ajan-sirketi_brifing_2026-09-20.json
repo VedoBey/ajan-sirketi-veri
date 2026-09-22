@@ -3,10 +3,10 @@
   "gundemler": [
     {
       "alan": "finans",
-      "baslik": "Küresel piyasalar AI yavaşlama endişesi, Orta Doğu gerginligği ve Fed faiz artışıyla karıştı",
-      "ozet": "Bu hafta küresel piyasalar; yapay zeka ſirketlerinin büyüme hızının yavaşlayacağı endişesi, Orta Doğu'daki gerilimler ve yüksek tahvil getirileri nedeniyle karışık seyretti. ABD Merkez Bankası (Fed) politika faizini 25 baz puan artırarak %3,75-4 aralığına çekti.",
+      "baslik": "Küresel piyasalar AI yavaşlama endişesi, Orta Doğu gerginliği ve Fed faiz artışıyla karıştı",
+      "ozet": "Bu hafta küresel piyasalar; yapay zeka şirketlerinin büyüme hızının yavaşlayacağı endişesi, Orta Doğu'daki gerilimler ve yüksek tahvil getirileri nedeniyle karışık seyretti. ABD Merkez Bankası (Fed) politika faizini 25 baz puan artırarak %3,75-4 aralığına çekti.",
       "kaynak_url": "https://www.aa.com.tr/tr/ekonomi/kuresel-piyasalarda-gelecek-hafta-yogun-veri-gundemi-takip-edilecek/4061766",
-      "yorum": "AI hisselerindeki değerleme endişesi 'AI balonu' tartışmasının süreceğini gösteriyor; bu piyasa dalgalanması Enes'in AI becerilerine yaptığı uzun vadeli yatırımının değerini etkilemiyor, kısa vadeli piyasa gürültüsü olarak değerlendirilebilir."
+      "yorum": "AI hisselerindeki değerleme endişesi 'AI balonu' tartışmasının süreceğini gösteriyor; bu piyasa dalgalanması Enes'in AI becerilerine yaptığı uzun vadeli yatırımın değerini etkilemiyor, kısa vadeli piyasa gürültüsü olarak değerlendirilebilir."
     },
     {
       "alan": "finans",
@@ -18,7 +18,7 @@
     {
       "alan": "uluslararasi",
       "baslik": "2026'da Orta Doğu'da 'kontrollü istikrarsızlık yılı' bekleniyor",
-      "ozet": "Değerlendirmelere göre 2026, Orta Doğu'da tam bir barış xılı olmayacak; küresel sistemin çqkar temelli ortaklıklar ve kontrollü gerilimlerin iç içe geçtiği bir düzlemde ilerlemesi bekleniyor.",
+      "ozet": "Değerlendirmelere göre 2026, Orta Doğu'da tam bir barış yılı olmayacak; küresel sistemin çıkar temelli ortaklıklar ve kontrollü gerilimlerin iç içe geçtiği bir düzlemde ilerlemesi bekleniyor.",
       "kaynak_url": "https://www.ey.com/tr_tr/insights/geostrategy/2026-kuresel-jeopolitik-gorunum",
       "yorum": "Süregelen jeopolitik risk enerji ve bulut maliyetlerinde dalgalanmaya yol açabilir; Enes'in AI projelerinde bulut/altyapı maliyet planlamasını temkinli yapması faydalı olabilir."
     },
@@ -41,11 +41,11 @@
       "baslik": "AI ajanları sohbetten görev yürütmeye geçiyor",
       "ozet": "AI ajanları artık araştırma hazırlığı, toplantı notu çıkarma, destek triyajı ve içerik taslağı gibi düşük riskli iş görevlerinde kullanılmaya başlandı; sektör yorumlarına göre artık dağıtım ve savunulabilirlik kazananları belirliyor.",
       "kaynak_url": "https://www.startuphub.ai/ai-news/artificial-intelligence/2026/major-developments-2026-09-04",
-      "yorum": "Küçük işletmelere yönelik somut 'AI ajan/otomasyon kurulumu' hizmeti (destek triyajı, toplantı notu çıkarma, içerik taslağı), Enes'in hedeflediği düzenli yan gelir için doğrudan uygulanabilir bir iş modeli olabilir."
+      "yorum": "Küçük işletmelere yönelik somut 'AI ajan kurulumu' hizmeti (destek triyajı, toplantı notu, içerik taslağı otomasyonu), Enes'in hedeflediği düzenli yan gelir için doğrudan uygulanabilir bir iş modeli olabilir."
     }
   ],
   "tavsiyeler": [
-    "Küçük işletmelere yönelik somut bir 'AI ajan/otomasyon kurulumu' hizmet paketi (ör. destek triyajı, toplantı notu çqkarma, içerik taslağı) hazırlayıp Upwork/Fiverr gibi platformlarda bir profil veya teklif olarak yayınlamayı değerlendirebilirsin.",
+    "Küçük işletmelere yönelik somut bir 'AI ajan/otomasyon kurulumu' hizmet paketi (ör. destek triyajı, toplantı notu çıkarma, içerik taslağı) hazırlayıp Upwork/Fiverr gibi platformlarda bir profil veya teklif olarak yayınlamayı değerlendirebilirsin.",
     "Siber güvenlik ile AI'nin kesiştiği niş alanda (ör. güvenlik odaklı modellerin kullanımı, temel tehdit tespiti otomasyonu) küçük bir örnek proje veya portföy parçası oluşturmayı değerlendirebilirsin; bu, kalabalıklaşan giriş seviyesi AI hizmetlerinden farklılaşmana yardımcı olabilir.",
     "Küresel ekonomik yavaşlama sinyalleri şirketlerin maliyet kısma eğilimini artırabileceğinden, hizmet teklifini 'maliyet düşürücü AI otomasyonu' (tekrarlayan görevlerin otomatikleştirilmesi) çerçevesinde konumlandırmayı değerlendirebilirsin."
   ],
