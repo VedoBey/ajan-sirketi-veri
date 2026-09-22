@@ -4,14 +4,14 @@
     {
       "alan": "finans",
       "baslik": "Fed faiz artırdı, 10 yıllık tahvil getirisi 19 yılın zirvesinde",
-      "ozet": "Fed, 2026'nın önceki toplantılarında faizi sabit tutduktan sonra Eylül toplantısında 25 baz puanlık artışa gitti; enerji fiyatlarındaki yükseliş ve güçlü istihdam verisi (Ağustos'ta 162 bin yeni iş) bu kararda etkili oldu. ABD 10 yıllık tahvil getirisi 19 yılın en yüksek seviyesine çıktı.",
+      "ozet": "Fed, 2026'nın önceki toplantılarında faizi sabit tutduktan sonra Eylül toplantısında 25 baz puanlık artışa gitti; enerji fiyatlarındaki yükseliş ve güçlü istihdam verisi (Ağustos'ta 162 bin yeni iş) bu kararda etkili oldu. ABD 10 yıllık tahvil getirisi 19 yılın en xüksek seviyesine çıktı.",
       "kaynak_url": "https://www.kiplinger.com/investing/live/fed-meeting-updates-and-commentary-september-2026",
       "yorum": "Yüksek faiz ortamı risk iştahını azaltıyor; freelance/yan gelir planlaması yaparken portföyünü ve harcamalarını temkinli tutmakta fayda var, büyük tek seferlik finansal taahhütlerden kaçınılabilir."
     },
     {
       "alan": "finans",
       "baslik": "Oracle ve Nvidia hisselerinde sert düşüş, 'AI balonu' endişeleri büyüyor",
-      "ozet": "Oracle hisseleri %6,1, Nvidia hisseleri günü %3,7 düşüşle açtı; Oracle ve Microsoft'un 5 yıllık CDS spread'leri Eylül'den bu yana neredeyse ikiye katlandı; Analistler bunu tamamen temel bir uyarıdan çok bir fiyatlama düzeltmesi olarak değerlendiriyor, ancak piyasada 'yapay zeka uyarıları' baskısı sürüyor.",
+      "ozet": "Oracle hisseleri %6,1, Nvidia hisseleri günü %3,7 düşüşle açtı; Oracle ve Microsoft'un 5 yıllık CDS spread'leri Eylül'den bu yana neredeyse ikiye katlandı. Analistler bunu tamamen temel bir uyarıdan çok bir fiyatlama düzeltmesi olarak değerlendiriyor, ancak piyasada 'yapay zeka uyarıları' baskısı sürüyor.",
       "kaynak_url": "https://www.investing.com/analysis/oracles-selloff-looks-more-like-a-mispricing-than-a-warning-200682722",
       "yorum": "Büyük AI şirketlerinin hisse değeri oynaklığı, yapay zekanın kendisinin değersizleştiği anlamına gelmiyor; tersine pratik AI hizmetlerine (otomasyon, ajan geliştirme, danışmanlık) olan iş talebi büyümeye devam ediyor — bu ayrımı gözden kaçırmamak önemli, değerlendirilebilir."
     },
@@ -31,7 +31,7 @@
     },
     {
       "alan": "teknoloji",
-      "baslik": "AI liderlerinden 'yavaşlama' çağrısı: Amodei, Altman, Hassabis uyardı",
+      "baslik": "AI liderlerinden 'yavaşlama' çaĝışı: Amodei, Altman, Hassabis uyardı",
       "ozet": "Anthropic CEO'su Dario Amodei, hızla gelişen yapay zekanın siber saldırılar, biyolojik silahlar ve 'ciddi ekonomik kesinti' dahil riskler taşıyabileceği konusunda uyardı; Altman, Musk ve Google DeepMind CEO'su Hassabis da daha temkinli bir gelişim hızı çağrısını destekledi.",
       "kaynak_url": "https://dailycaller.com/2026/09/14/ai-leaders-hit-the-brakes-tech-stocks-tumble/",
       "yorum": "Sektörün en üst isimleri bile hız konusunda temkinli; bu, Enes'in temel/güvenilir AI becerilerine (uygulama, entegrasyon, danışmanlık) yatırım yapmasının, spekülatif/hızlı trend takibinden daha sürdürülebilir olduğunu destekliyor."
