@@ -1,0 +1,67 @@
+{
+  "tarih": "2026-09-23",
+  "gundemler": [
+    {
+      "alan": "finans",
+      "baslik": "Fed'de 'yüksek faiz uzun süre' sinyali",
+      "ozet": "Eylül FOMC toplantısında beklenen 25 baz puanlık artış geldi; güncellenen nokta grafiği politika faizinin 2026 sonunda yaklaşık %4.0-4.1 seviyesinde uzun süre kalacağını, çekirdek PCE enflasyonunun ise hedefin üzerinde (%3.4) seyredeceğini gösteriyor. ABD 10 yıllık tahvil getirisi %4.96'ya yakın.",
+      "kaynak_url": "https://www.riotimesonline.com/global-economy-briefing-september-22-2026/",
+      "yorum": "Güçlü dolar ve yüksek faiz ortamı sürüyor; dolar bazlı bir yan gelir (uluslararası freelance/danışmanlık) TL bazlı gelire göre daha istikrarlı bir hedef olabilir."
+    },
+    {
+      "alan": "finans",
+      "baslik": "ABD-Çin zirvesi öncesi risk iştahı ve AI hisselerinde yükseliş",
+      "ozet": "Trump-Şi Cinping zirvesi (23-25 Eylül, Washington) öncesi diplomatik iyimserlik küresel piyasalarda risk iştahını artırdı; teknoloji ve yapay zekâ hisseleri yükselişe geçti.",
+      "kaynak_url": "https://www.gunes.com/ekonomi/22-eylul-sali-kuresel-piyasalar-iyimserlikle-pozitif-seyrediyor-1229690",
+      "yorum": "Piyasanın AI şirketlerine ilgisi canlı; bu, AI becerilerine yönelik talebin de güçlü kaldığının bir göstergesi olarak okunabilir."
+    },
+    {
+      "alan": "finans",
+      "baslik": "İran hava yolu şirketlerine kapsamlı ABD yaptırımı",
+      "ozet": "ABD Hazine Bakanı Scott Bessent, 23 Eylül itibarıyla tüm İran hava yolu şirketlerinin dünya genelindeki faaliyetlerinin durdurulacağını açıkladı.",
+      "kaynak_url": "https://www.foreks.com/haber/detay/6aabc12a859c73528774370e/FRKS/tr/ekonomik-veri-takvimi-23-eylul-2026-carsamba-17-09-26/",
+      "yorum": "Doğrudan etkisi sınırlı; yine de jeopolitik risk priminin küresel piyasalara yansımasını izlemekte fayda var."
+    },
+    {
+      "alan": "uluslararasi",
+      "baslik": "Trump-Şi Cinping Washington Zirvesi (23-25 Eylül)",
+      "ozet": "Xi Jinping'in 2015'ten bu yana ilk ABD devlet ziyareti olarak Washington'da başlayan zirvede kritik mineraller, teknoloji ve Tayvan gündemin üst sıralarında; taraflar ayrıca AI olayları için bir bildirim mekanizması içeren bir 'ABD-Çin AI Diyaloğu' kurulmasını görüşüyor.",
+      "kaynak_url": "https://www.weforum.org/stories/geo-economics-and-politics/what-to-expect-from-the-trump-xi-summit-in-washington/",
+      "yorum": "İki büyük güç arasında AI yönetişimi resmi bir diyalog konusu haline geliyor; bu alandaki gelişmeleri takip etmek, AI düzenleme/uyum konularında erken uzmanlaşma fırsatı sunabilir."
+    },
+    {
+      "alan": "uluslararasi",
+      "baslik": "Trump-Takaichi görüşmesi, Çin zirvesi öncesi ittifak mesajı",
+      "ozet": "Japonya Başbakanı Sanae Takaichi, 22 Eylül'de New York'ta Trump ile görüştü; taraflar Çin konusundaki görüşlerini paylaşıp ABD-Japonya ittifakını güçlendirme taahhüdünü yineledi.",
+      "kaynak_url": "https://en.sedaily.com/international/2026/09/23/takaichi-meets-trump-days-before-us-china-summit",
+      "yorum": "Büyük güçler arasındaki teknoloji/ticaret dengesi yeniden şekilleniyor; tedarik zinciri ve teknoloji politikalarındaki değişimler dolaylı olarak AI sektörünü de etkileyebilir."
+    },
+    {
+      "alan": "uluslararasi",
+      "baslik": "ABD-Rusya diplomasisi: Rubio-Lavrov görüşmesi",
+      "ozet": "ABD Dışişleri Bakanı Marco Rubio, BM Genel Kurulu haftasında (20-23 Eylül) New York'ta Rus mevkidaşı Sergey Lavrov ile görüştü.",
+      "kaynak_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/09/public-schedule-september-23-2026",
+      "yorum": "Jeopolitik gerginliklerin seyri küresel piyasa oynaklığını etkileyebilir; genel farkındalık için takip değerli, doğrudan aksiyon gerektirmiyor."
+    },
+    {
+      "alan": "teknoloji",
+      "baslik": "BM Güvenlik Konseyi'nde ilk kez ABD-Çin öncü AI şirketleri bir arada",
+      "ozet": "Fransa başkanlığında 23 Eylül'de düzenlenen BM Güvenlik Konseyi oturumunda OpenAI CEO'su Sam Altman (bizzat) ve Anthropic CEO'su Dario Amodei (uzaktan) konuştu; DeepSeek ve Moonshot AI de davet edildi. Odak noktası AI'ın kötüye kullanımı ve kontrol kaybı riskleri.",
+      "kaynak_url": "https://www.securitycouncilreport.org/whatsinblue/2026/09/artificial-intelligence-high-level-briefing-2.php",
+      "yorum": "AI güvenliği/yönetişimi küresel siyasetin merkezine oturuyor; 'AI safety', 'AI compliance' ve sorumlu kullanım konularında bilgi sahibi olmak, önümüzdeki dönemde değerli bir niş uzmanlık alanı olabilir."
+    },
+    {
+      "alan": "teknoloji",
+      "baslik": "Google'ın Intrinsic'i endüstriyel robotik yazılımını açık kaynak yaptı",
+      "ozet": "Alphabet'e bağlı Intrinsic, ROSCon 2026'da 'Intrinsic Core' adlı ROS uyumlu robotik altyapısını Apache 2.0 lisansıyla açık kaynak olarak yayınladı; gerçek zamanlı kontrol, Nvidia FoundationPose tabanlı poz tahmini, hareket/kavrama planlaması ve simülasyon araçlarını içeriyor.",
+      "kaynak_url": "https://www.intrinsic.ai/blog/posts/introducing-intrinsic-core",
+      "yorum": "Ücretsiz, endüstri standardı açık kaynak araçlarla pratik proje deneyimi kazanmak (ör. GitHub'da paylaşılabilir küçük bir demo) portföy değeri yaratabilir ve fiziksel AI/robotik alanına giriş maliyetini düşürür."
+    }
+  ],
+  "tavsiyeler": [
+    "BM Güvenlik Konseyi'ndeki AI güvenliği/yönetişimi gündemi ve ABD-Çin AI Diyaloğu girişimi, 'AI politikaları ve sorumlu kullanım' konusunda temel bilgi edinmenin değerini artırıyor; Enes, Anthropic ve OpenAI'nin güvenlik/politika yayınlarını haftalık takip ederek küçük işletmelere yönelik basit bir 'AI kullanım rehberi/politikası hazırlama' hizmetini değerlendirebilir.",
+    "Açık kaynak araçlarla (ör. Intrinsic Core gibi ücretsiz, endüstri destekli projeler) küçük, paylaşılabilir bir demo/proje üretmek; bunu GitHub ve LinkedIn'de portföy olarak sergilemek, Upwork/Fiverr gibi platformlarda AI entegrasyon/otomasyon hizmetleri için güvenilirlik oluşturmada değerlendirilebilir.",
+    "Güçlü dolar/yüksek faiz ortamı sürdüğü için, aylık ~$1000 hedefine yönelik gelir modelini TL yerine doğrudan dolar bazlı (uluslararası müşteri/platform) kurgulamak, kur riskini azaltma açısından değerlendirilebilir."
+  ],
+  "createdAt": 1790134200000
+}
