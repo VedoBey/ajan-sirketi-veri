@@ -1,1 +1,24 @@
-{"hafta":"2026-W38","tarih":"2026-09-20","fink":{"durum":"iyi","notlar":["5 fikrin 5'inde de 'neden_simdi' ve/veya 'gelir_tahmini' alanlarında en az bir kaynak URL var; ANAYASA madde 2 ihlali yok.","'AI Sanal Dekorasyon' fikrinin gelir_tahmini alt-alanındaki TL rakamları (150-500 TL/görsel, 3.000-15.000 TL/ay) için hâlâ ayrı bir kaynak URL yok; bu eksiklik 17 Eylül denetiminde de not edilmişti ve 3 gündür düzeltilmedi. Küçük ölçekli ama takip edilmeli.","17 Eylül'den bu yana yeni bir fikirler dosyası oluşturulmamış; son 7 gün içinde tek dosya var, bu yüzden 'aynı fikir 3+ gündür tekrar ediyor mu' kontrolü için karşılaştırılacak ikinci bir veri seti yok."],"talimatBirakildi":false},"mani":{"durum":"iyi","notlar":["Net bakiye, toplam bekleyen sabit gider ve yatırılabilir tutar rakamları islemler/faturalar koleksiyonlarıyla bağımsız olarak doğrulandı: rakamlar tutarlı.","mani_haftalik_tavsiye ve mani_yatirim_ozet dosyaları bu hafta için mevcut; yatırım özeti net şekilde 'yatırım tavsiyesi değildir' uyarısı ve kaynak URL'leri içeriyor.","Bütçe tavsiyelerinin büyük çoğunluğu '...değerlendirebilirsin/değerlendirilebilir' önerici dilde yazılmış; bir başlık ('Vadesi en yakın kalemi önce değerlendir') biraz daha direktif ama kesin emir niteliğinde değil."],"talimatBirakildi":false},"yeniAjanOnerisi":null,"createdAt":1789923600000}
+{
+  "hafta": "2026-W38",
+  "tarih": "2026-09-20",
+  "fink": {
+    "durum": "iyi",
+    "notlar": [
+      "5 fikrin 5'inde de 'neden_simdi' ve/veya 'gelir_tahmini' alanlarında en az bir kaynak URL var; ANAYASA madde 2 ihlali yok.",
+      "'AI Sanal Dekorasyon' fikrinin gelir_tahmini alt-alanındaki TL rakamları (150-500 TL/görsel, 3.000-15.000 TL/ay) için hâlâ ayrı bir kaynak URL yok; bu eksiklik 17 Eylül denetiminde de not edilmişti ve 3 gündür düzeltilmedi. Küçük ölçekli ama takip edilmeli.",
+      "17 Eylül'den bu yana yeni bir fikirler dosyası oluşturulmamış; son 7 gün içinde tek dosya var, bu yüzden 'aynı fikir 3+ gündür tekrar ediyor mu' kontrolü için karşılaştırılacak ikinci bir veri seti yok."
+    ],
+    "talimatBirakildi": false
+  },
+  "mani": {
+    "durum": "iyi",
+    "notlar": [
+      "Net bakiye, toplam bekleyen sabit gider ve yatırılabilir tutar rakamları islemler/faturalar koleksiyonlarıyla bağımsız olarak doğrulandı: rakamlar tutarlı.",
+      "mani_haftalik_tavsiye ve mani_yatirim_ozet dosyaları bu hafta için mevcut; yatırım özeti net şekilde 'yatırım tavsiyesi değildir' uyarısı ve kaynak URL'leri içeriyor.",
+      "Bütçe tavsiyelerinin büyük çoğunluğu '...değerlendirebilirsin/değerlendirilebilir' önerici dilde yazılmış; bir başlık ('Vadesi en yakın kalemi önce değerlendir') biraz daha direktif ama kesin emir niteliğinde değil."
+    ],
+    "talimatBirakildi": false
+  },
+  "yeniAjanOnerisi": null,
+  "createdAt": 1789923600000
+}

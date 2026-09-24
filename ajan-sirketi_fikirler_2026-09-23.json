@@ -1,51 +1,51 @@
 {
- "tarih": "2026-09-23",
- "fikirler": [
- {
- "baslik": "AI Profesyonel Headshot / LinkedIn Fotoğrafı Hizmeti",
- "ozet": "Aragon, Secta, HeadshotPro gibi araçlarla müşterinin birkaç selfie'sinden profesyonel LinkedIn/kurumsal headshot seti üretip iş arayanlara, serbest çalışanlara ve KOBİ çalışanlarına Fiverr + yerel Instagram/WhatsApp üzerinden satmak.",
- "neden_simdi": "Aragon'un Executive planı 6 selfieden 15 dakikada 100 headshot üretiyor; Secta $49'a 200+ headshot/130+ stil sunuyor (~$0.16/foto maliyet) — bu düşük maliyet yapısı, kâr marjıyla paketleyip satmaya uygun bir fırsat penceresi açıyor.",
- "kaynak_url": "https://www.aragon.ai/pricing ; https://dupple.com/learn/best-ai-for-headshots",
- "gelir_tahmini": "Paket başına 300-600 TL (set+seçki+rötuş) ile ilk ay 5-8 müşteri = 1500-3000 TL; 90 günde referansla 15-20 müşteri/ay = 5000-9000 TL/ay. Kaynak: fiverr.com/gigs/ai-headshot gig fiyatları ($15-40).",
- "ilk_adim": "Aragon veya Secta'ya abone ol, kendi/3 tanıdığının fotoğraflarıyla önce-sonra örnek set hazırla, LinkedIn'de iş arayan/kariyer grupları ve yerel esnaf WhatsApp gruplarına 300 TL giriş paketiyle teklif götür.",
- "risk": "Piyasada onlarca ücretsiz/ucuz self-servis uygulama var, 'neden bana ödeyeyim' itirazı güçlü; 'plastik görünüm' şikayetleri memnuniyetsizlik yaratabilir; doygunluk orta-yüksek, rötuş kalitesiyle farklılaşmak şart."
- },
- {
- "baslik": "AI Ürün Fotoğrafçılığı — Trendyol/Shopify Satıcılarına Hizmet",
- "ozet": "Pebblely/Photoroom/Flair AI ile küçük online satıcıların (Trendyol, Hepsiburada, Instagram shop) ürün fotoğraflarını profesyonel arka plan/lifestyle sahnelerine dönüştürüp paket halinde satmak.",
- "neden_simdi": "AI araçları görsel başı maliyeti $0.10-2'ye kadar düşürdü (geleneksel çekim $200-5000/oturum); Pebblely $9/ay'dan başlıyor, Photoroom'un ücretsiz katmanı bile kullanılabilir — düşük sermayeyle yüksek marjlı hizmet kurmayı mümkün kılıyor.",
- "kaynak_url": "https://www.photoroom.com/blog/ai-tools-product-photography ; https://www.aisellertools.com/blog/photoroom-vs-pebblely-vs-flair-ai-product-photography-amazon-etsy",
- "gelir_tahmini": "Görsel başı 100-250 TL veya 10'luk paket 1000-2000 TL; ilk ay 3-5 küçük satıcı ile 2000-5000 TL, 90 günde 8-10 düzenli satıcı ile 6000-12000 TL/ay. Kaynak: withallo.com AI ürün fotoğrafçılığı fiyat karşılaştırması.",
- "ilk_adim": "Pebblely/Photoroom'a abone ol, çevrende bir küçük Trendyol/Instagram satıcısı bul, 10 ürününü ücretsiz/indirimli dönüştürüp önce-sonra örneği hazırla, esnaf/mikro-ihracatçı gruplarında paylaş.",
- "risk": "Trendyol/Shopify gibi platformlar kendi AI görsel araçlarını entegre etmeye başlıyor (orta vadeli rekabet); bazı satıcılar aracı kendi kullanmayı tercih edebilir; stil danışmanlığı sunulmazsa fiyat baskısı yüksek olur."
- },
- {
- "baslik": "AI Sesli Kitap Seslendirme Hizmeti — Bağımsız Türk Yazarlara",
- "ozet": "ElevenLabs/Narration Box gibi ses klonlama araçlarıyla kendi kendine yayın yapan Türk yazarların e-kitaplarını Türkçe sesli kitaba dönüştürme; redaksiyon+ses üretimi+platform teslimini paket hizmet olarak sunmak.",
- "neden_simdi": "AI sesli kitap üretim maliyeti kitap başına $8-99'a düştü (insan seslendirmen $1200-2800); bu fark Türkçe pazarda henüz az kişinin fark ettiği bir boşluk, Findaway Voices gibi dağıtıcılar %80 telifle 40+ platforma dağıtım sağlıyor.",
- "kaynak_url": "https://storyvox.app/blog/voice-cloning-for-audiobooks-how-it-works-what-it-costs ; https://scribecount.com/author-resource/audiobook-creation-guide/ai-narration-for-authors",
- "gelir_tahmini": "Proje başına 2500-6000 TL; ilk ay 1-2 proje = 2500-8000 TL (düzensiz), 90 günde KDP/D&R yazar gruplarında referansla 3-4 proje/ay = 8000-18000 TL/ay. Kaynak: narrationbox.com maliyet karşılaştırması.",
- "ilk_adim": "ElevenLabs'te Türkçe ses klonlama ile 5 dakikalık örnek bölüm üret, Türkçe bağımsız yazar Facebook gruplarına (ör. KDP Türkiye) ücretsiz/indirimli pilot teklif götür, önce-sonra ses örneği paylaş.",
- "risk": "Türkçe AI seslerin doğallığı İngilizce'ye göre geride; bazı platformlar (ör. ACX) AI seslendirme konusunda değişken politikalar uyguluyor; talep proje bazlı ve düzensiz; ses/telif izinleri netleştirilmeli."
- },
- {
- "baslik": "Düğün/Etkinlik 'Aynı Gün Video' Hizmeti — AI Destekli Hızlı Kurgu",
- "ozet": "Düğün/nişanda gündüz çekilen görüntüleri Topaz Video AI (gürültü azaltma/yükseltme) ve Runway (hızlı kurgu/renk/efekt) ile aynı akşam davette gösterilecek 3-5 dakikalık highlight videoya dönüştürüp yerel fotoğrafçı/organizatörlere ek hizmet olarak sunmak.",
- "neden_simdi": "'Same-day edit' 2026'da düğün paketlerinde standart bir eklenti haline geldi ($500-1500 ek ücret); AI kurgu araçları (Topaz, Runway, Descript) önceden 2-3 kişilik ekip gerektiren bu işi tek kişiye indirgedi.",
- "kaynak_url": "https://ruahcreativehouse.org/blog/wedding-videography-pricing/ ; https://magichour.ai/blog/ai-tools-for-wedding-and-event-videography",
- "gelir_tahmini": "Etkinlik başına 3000-7000 TL ek paket; ilk ay hafta sonu 1-2 etkinlikle 3000-14000 TL (mevsimsel/düzensiz), 90 günde 2-3 sabit fotoğrafçı iş birliğiyle ayda 10000-15000 TL (yoğun sezonda). Kaynak: ruahcreativehouse.org same-day edit fiyat aralığı ($500-1500).",
- "ilk_adim": "Topaz Video AI ve Runway'e abone ol, bir yakınının düğününde deneme çekimi yap, 3 saat içinde 3 dakikalık highlight video kurgula, örnek olarak 5 yerel düğün fotoğrafçısına/organizasyon firmasına götür.",
- "risk": "Etkinlikte fiziksel bulunma ve hafta sonu müsaitlik gerektirir (tam zamanlı polis memuru için zaman çakışması riski yüksek); gelir mevsimsel/düzensiz (esas yaz ayları); ekipman yatırımı gerekebilir — listedeki en az 'yalnızca dizüstüyle yapılabilir' fikir."
- },
- {
- "baslik": "Küçük İşletmelere AI Araçları Kullanım Eğitimi/Atölyesi",
- "ozet": "Yerel esnaf, KOBİ sahipleri ve serbest çalışanlara ChatGPT/Gemini/Canva AI gibi araçları günlük iş süreçlerinde (pazarlama taslağı, müşteri yanıtları, envanter) nasıl kullanacaklarını öğreten grup atölyesi veya birebir danışmanlık satmak — kurulum değil, eğitim/beceri aktarımı.",
- "neden_simdi": "AI okuryazarlığı 2026'da SMB'ler için liderlik gelişimi ve beceri açığından sonra 3. en yüksek L&D önceliği; SMB'lerin %76'sı AI kullanmayı planlıyor/kullanıyor ama sadece %24'ü fiilen kullanıyor — bu bir 'rehber/öğretmen' boşluğu yaratıyor.",
- "kaynak_url": "https://thirst.io/blog/ai-literacy-training/ ; https://www.uschamber.com/co/start/strategy/ai-training-guide-small-business",
- "gelir_tahmini": "2 saatlik grup atölyesi (5-10 katılımcı, kişi başı 300-500 TL) 1500-5000 TL; ilk ay 1-2 atölye = 1500-8000 TL, 90 günde TSO/esnaf odası bağlantısıyla ayda 2-3 atölye + birebir danışmanlık = 8000-15000 TL/ay. Kaynak: ayautomate.com küresel freelance AI danışman ücret verisi (kıyas noktası, yerelde çok daha düşük).",
- "ilk_adim": "Çevrende (esnaf odası, ticaret odası, iş WhatsApp grupları) 60 dakikalık ücretsiz/düşük ücretli pilot atölye düzenle ('ChatGPT ile işini kolaylaştır'), geri bildirimle ücretli paketi oluştur ve TSO/esnaf derneğine teklif götür.",
- "risk": "OpenAI'nin 'ChatGPT for Small Business' programı Temmuz 2026'dan itibaren ücretsiz eğitim sunuyor — doğrudan ikame riski; küçük işletme sahiplerinin eğitime zaman/bütçe ayırma isteği düşük olabilir; ölçülebilir sonuç yoksa tekrar müşteri zor. Kaynak: openai.com/index/introducing-chatgpt-small-business-program."
- }
- ],
- "createdAt": 1790122620000
+  "tarih": "2026-09-23",
+  "fikirler": [
+    {
+      "baslik": "AI Profesyonel Headshot / LinkedIn Fotoğrafı Hizmeti",
+      "ozet": "Aragon, Secta, HeadshotPro gibi araçlarla müşterinin birkaç selfie'sinden profesyonel LinkedIn/kurumsal headshot seti üretip iş arayanlara, serbest çalışanlara ve KOBİ çalışanlarına Fiverr + yerel Instagram/WhatsApp üzerinden satmak.",
+      "neden_simdi": "Aragon'un Executive planı 6 selfieden 15 dakikada 100 headshot üretiyor; Secta $49'a 200+ headshot/130+ stil sunuyor (~$0.16/foto maliyet) — bu düşük maliyet yapısı, kâr marjıyla paketleyip satmaya uygun bir fırsat penceresi açıyor.",
+      "kaynak_url": "https://www.aragon.ai/pricing ; https://dupple.com/learn/best-ai-for-headshots",
+      "gelir_tahmini": "Paket başına 300-600 TL (set+seçki+rötuş) ile ilk ay 5-8 müşteri = 1500-3000 TL; 90 günde referansla 15-20 müşteri/ay = 5000-9000 TL/ay. Kaynak: fiverr.com/gigs/ai-headshot gig fiyatları ($15-40).",
+      "ilk_adim": "Aragon veya Secta'ya abone ol, kendi/3 tanıdığının fotoğraflarıyla önce-sonra örnek set hazırla, LinkedIn'de iş arayan/kariyer grupları ve yerel esnaf WhatsApp gruplarına 300 TL giriş paketiyle teklif götür.",
+      "risk": "Piyasada onlarca ücretsiz/ucuz self-servis uygulama var, 'neden bana ödeyeyim' itirazı güçlü; 'plastik görünüm' şikayetleri memnuniyetsizlik yaratabilir; doygunluk orta-yüksek, rötuş kalitesiyle farklılaşmak şart."
+    },
+    {
+      "baslik": "AI Ürün Fotoğrafçılığı — Trendyol/Shopify Satıcılarına Hizmet",
+      "ozet": "Pebblely/Photoroom/Flair AI ile küçük online satıcılarının (Trendyol, Hepsiburada, Instagram shop) ürün fotoğraflarını profesyonel arka plan/lifestyle sahnelerine dönüştürüp paket halinde satmak.",
+      "neden_simdi": "AI araçları görsel başı maliyeti $0.10-2'ye kadar düşürdü (geleneksel çekim $200-5000/oturum); Pebblely $9/ay'dan başlıyor, Photoroom'un ücretsiz katmanı bile kullanılabilir — düşük sermayeyle yüksek marjlı hizmet kurmayı mümkün kılıyor.",
+      "kaynak_url": "https://www.photoroom.com/blog/ai-tools-product-photography ; https://www.aisellertools.com/blog/photoroom-vs-pebblely-vs-flair-ai-product-photography-amazon-etsy",
+      "gelir_tahmini": "Görsel başı 100-250 TL veya 10'luk paket 1000-2000 TL; ilk ay 3-5 küçük satıcı ile 2000-5000 TL, 90 günde 8-10 düzenli satıcı ile 6000-12000 TL/ay. Kaynak: withallo.com AI ürün fotoğrafçılığı fiyat karşılaştırması.",
+      "ilk_adim": "Pebblely/Photoroom'a abone ol, çevrende bir küçük Trendyol/Instagram satıcısı bul, 10 ürününü ücretsiz/indirimli dönüştürüp önce-sonra örneği hazırla, esnaf/mikro-ihracatçı gruplarında paylaş.",
+      "risk": "Trendyol/Shopify gibi platformlar kendi AI görsel araçlarını entegre etmeye başlıyor (orta vadeli rekabet); bazı satıcılar aracı kendi kullanmayı tercih edebilir; stil danışmanlığı sunulmazsa fiyat baskısı yüksek olur."
+    },
+    {
+      "baslik": "AI Sesli Kitap Seslendirme Hizmeti — Bağımsız Türk Yazarlara",
+      "ozet": "ElevenLabs/Narration Box gibi ses klonlama araçlarıyla kendi kendine yayın yapan Türk yazarlarının e-kitaplarını Türkçe sesli kitaba dönüştürme; redaksiyon+ses üretimi+platform teslimini paket hizmet olarak sunmak.",
+      "neden_simdi": "AI sesli kitap üretim maliyeti kitap başına $8-99'a düştü (insan seslendirmen $1200-2800); bu fark Türkçe pazarda henüz az kişinin fark ettiği bir boşluk, Findaway Voices gibi dağıtıcılar %80 telifle 40+ platforma dağıtım sağlıyor.",
+      "kaynak_url": "https://storyvox.app/blog/voice-cloning-for-audiobooks-how-it-works-what-it-costs ; https://scribecount.com/author-resource/audiobook-creation-guide/ai-narration-for-authors",
+      "gelir_tahmini": "Proje başına 2500-6000 TL; ilk ay 1-2 proje = 2500-8000 TL (düzensiz), 90 günde KDP/D&R yazar gruplarında referansla 3-4 proje/ay = 8000-18000 TL/ay. Kaynak: narrationbox.com maliyet karşılaştırması.",
+      "ilk_adim": "ElevenLabs'te Türkçe ses klonlama ile 5 dakikalık örnek bölüm üret, Türkçe bağımsız yazar Facebook gruplarına (ör. KDP Türkiye) ücretsiz/indirimli pilot teklif götür, önce-sonra ses örneği paylaş.",
+      "risk": "Türkçe AI seslerin doğallığı İngilizce'ye göre geride; bazı platformlar (ör. ACX) AI seslendirme konusunda değişken politikalar uyguluyor; talep proje bazlı ve düzensiz; ses/telif izinleri netleştirilmeli."
+    },
+    {
+      "baslik": "Düğün/Etkinlik 'Aynı Gün Video' Hizmeti — AI Destekli Hızlı Kurgu",
+      "ozet": "Düğün/nişanda gündüz çekilen görüntüleri Topaz Video AI (gürültü azaltma/yükseltme) ve Runway (hızlı kurgu/renk/efekt) ile aynı akşam davette gösterilecek 3-5 dakikalık highlight videoya dönüştürüp yerel fotoğrafçı/organizatörlere ek hizmet olarak sunmak.",
+      "neden_simdi": "'Same-day edit' 2026'da düğün paketlerinde standart bir eklenti haline geldi ($500-1500 ek ücret); AI kurgu araçları (Topaz, Runway, Descript) önceden 2-3 kişilik ekip gerektiren bu işi tek kişiye indirgedi.",
+      "kaynak_url": "https://ruahcreativehouse.org/blog/wedding-videography-pricing/ ; https://magichour.ai/blog/ai-tools-for-wedding-and-event-videography",
+      "gelir_tahmini": "Etkinlik başına 3000-7000 TL ek paket; ilk ay hafta sonu 1-2 etkinlikle 3000-14000 TL (mevsimsel/düzensiz), 90 günde 2-3 sabit fotoğrafçı iş birliğiyle ayda 10000-15000 TL (yoğun sezonda). Kaynak: ruahcreativehouse.org same-day edit fiyat aralığı ($500-1500).",
+      "ilk_adim": "Topaz Video AI ve Runway'e abone ol, bir yakınının düğününde deneme çekimi yap, 3 saat içinde 3 dakikalık highlight video kurgula, örnek olarak 5 yerel düğün fotoğrafçısına/organizasyon firmasına götür.",
+      "risk": "Etkinlikte fiziksel bulunma ve hafta sonu müsaitlik gerektirir (tam zamanlı polis memuru için zaman çakışması riski yüksek); gelir mevsimsel/düzensiz (esas yaz ayları); ekipman yatırımı gerekebilir — listedeki en az 'yalnızca dizüstüyle yapılabilir' fikir."
+    },
+    {
+      "baslik": "Küçük İşletmelere AI Araçları Kullanım Eğitimi/Atölyesi",
+      "ozet": "Yerel esnaf, KOBİ sahipleri ve serbest çalışanlara ChatGPT/Gemini/Canva AI gibi araçları günlük iş süreçlerinde (pazarlama taslağı, müşteri yanıtları, envanter) nasıl kullanacaklarını öğreten grup atölyesi veya birebir danışmanlık satmak — kurulum değil, eğitim/beceri aktarımı.",
+      "neden_simdi": "AI okuryazarlığı 2026'da SMB'ler için liderlik gelişimi ve beceri açığından sonra 3. en yüksek L&D önceliği; SMB'lerin %76'sı AI kullanmayı planlıyor/kullanıyor ama sadece %24'ü fiilen kullanıyor — bu bir 'rehber/öğretmen' boşluğu yaratıyor.",
+      "kaynak_url": "https://thirst.io/blog/ai-literacy-training/ ; https://www.uschamber.com/co/start/strategy/ai-training-guide-small-business",
+      "gelir_tahmini": "2 saatlik grup atölyesi (5-10 katılımcı, kişi başı 300-500 TL) 1500-5000 TL; ilk ay 1-2 atölye = 1500-8000 TL, 90 günde TSO/esnaf odası bağlantısıyla ayda 2-3 atölye + birebir danışmanlık = 8000-15000 TL/ay. Kaynak: ayautomate.com küresel freelance AI danışman ücret verisi (kıyas noktası, yerelde çok daha düşük).",
+      "ilk_adim": "Çevrende (esnaf odası, ticaret odası, iş WhatsApp grupları) 60 dakikalık ücretsiz/düşük ücretli pilot atölye düzenle ('ChatGPT ile işini kolaylaştır'), geri bildirimle ücretli paketi oluştur ve TSO/esnaf derneğine teklif götür.",
+      "risk": "OpenAI'nin 'ChatGPT for Small Business' programı Temmuz 2026'dan itibaren ücretsiz eğitim sunuyor — doğrudan ikame riski; küçük işletme sahiplerinin eğitime zaman/bütçe ayırma isteği düşük olabilir; ölçülebilir sonuç yoksa tekrar müşteri zor. Kaynak: openai.com/index/introducing-chatgpt-small-business-program."
+    }
+  ],
+  "createdAt": 1790122620000
 }
