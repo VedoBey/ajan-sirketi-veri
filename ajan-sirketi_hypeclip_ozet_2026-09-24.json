@@ -1,7 +1,7 @@
 {
   "tarih": "2026-09-24",
   "birim": "HypeClip Media",
-  "arastirmaOzeti": "Podcast/röportaj kliplemesinde Eklipse Creator Rewards ve Lumina Clippers gibi resmi, ücretli klip ağları güçlü izinli işbirliği kanalları sunuyor; Bravo'nun yeni sezonu 'Still Flipping Out' ve CBS'in 'Amazing Race 25. Yıl' özel bölümü resmi arşiv/basın materyaliyle yorumlayıcı klip fırsatı yaratıyor, ayrıca Instagram'da tek çekim skeç/lip-sync formatı (300M+ izlenme) organik trend olarak öne çıkıyor.",
+  "arastirmaOzeti": "Akşam taramasında Armchair Expert'in resmi 'Clips' kanalı izinli podcast klip kaynağı olarak öne çıkarken, Instagram Reels'te 'Right Round Hangover' paparazzi-prank skeci, çift-dinamiği ('What Did My Husband Pray For?') ve istatistik-flex ('Potential-Maxxing') formatları bu hafta organik trend olarak yükseliyor.",
   "adaylar": [
     {
       "baslik": "Eklipse Creator Rewards",
@@ -32,8 +32,32 @@
       "format": "Komedi — kısa reels trend formatı (organik, format taklidi)",
       "izinYolu": "Format trendi — orijinal içerik üretimiyle telif sorunu yok; belirli viral videoların reaksiyon/embed'i için kaynak hesaptan izin gerekir",
       "kaynak_url": "https://technosports.co.in/5-viral-instagram-reels-today-september-13-2026/"
+    },
+    {
+      "baslik": "Armchair Expert Clips (Dax Shepard)",
+      "format": "Komedi/röportaj podcast",
+      "izinYolu": "Resmi 'Armchair Expert Clips' YouTube kanalı/oynatma listesi prodüksiyon tarafından işletiliyor; doğrudan işbirliği için yapım ekibine ulaşılabilir",
+      "kaynak_url": "https://www.youtube.com/c/OfficialArmchairExpert"
+    },
+    {
+      "baslik": "'Right Round Hangover' Reels formatı",
+      "format": "Komedi — kısa video paparazzi-prank/aftermath skeç formatı (TikTok'tan Reels'e yayılıyor)",
+      "izinYolu": "Platform trend formatı — orijinal içerik üretimiyle taklit ediliyor, telif hakkı gerektirmiyor",
+      "kaynak_url": "https://newengen.com/insights/instagram-trends/"
+    },
+    {
+      "baslik": "'What Did My Husband Pray For?' çift-dinamiği formatı",
+      "format": "Komedi/ilişki içerik formatı — Taylor Swift 'The Fate of Ophelia' sesiyle (1.2M reels)",
+      "izinYolu": "Platformun lisanslı trend sesi + orijinal format taklidi; telif sorunu yok",
+      "kaynak_url": "https://newengen.com/insights/instagram-trends/"
+    },
+    {
+      "baslik": "'Potential-Maxxing' / 'Money Can't Buy Happiness' trend formatları",
+      "format": "Kısa video — metin-overlay istatistik/başarı flex trend formatı",
+      "izinYolu": "Orijinal format taklidi, telif riski yok",
+      "kaynak_url": "https://later.com/blog/instagram-reels-trends/"
     }
   ],
   "dikkatNotu": "TV ağlarının (Bravo/CBS) resmi klip/basın materyali kullanım şartları doğrudan network sayfasından teyit edilmeden dış yayına alınmamalı; genel haber özetlerinden çıkarım yapıldı.",
-  "createdAt": 1790229600000
+  "createdAt": 1790272800000
 }
