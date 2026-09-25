@@ -1,0 +1,51 @@
+{
+  "tarih": "2026-09-25",
+  "fikirler": [
+    {
+      "baslik": "AI Model Eğitimi / RLHF Serbest Çalışanlığı (Mercor, Outlier, Alignerr, DataAnnotation)",
+      "ozet": "Büyük dil modeli şirketlerine (OpenAI, Anthropic, Google vb. ile çalışan aracı platformlar) uzaktan, saatlik, proje bazlı 'insan geri bildirimi' (RLHF), veri etiketleme ve model değerlendirme görevleri yapmak. Türkçe dil bilgisi, akıl yürütme ve İngilizce okuma-yazma yeterli; kod/hukuk/tıp bilgisi olanlar daha yüksek ücretli görevlere geçer.",
+      "neden_simdi": "2026'da bu platformlar aktif olarak büyüyor; Mercor $40-100+/saat, Outlier $15-45/saat, Alignerr $20-40/saat, DataAnnotation $20-25/saat ödüyor ve genel AI eğitmeni ortalaması ~$31/saat olarak raporlanıyor (https://www.mercor.com/resources/experts/ai-trainer-salary-hourly-rates/, https://breakingeven.online/blog/outlier-vs-dataannotation-vs-alignerr-pay-comparison).",
+      "kaynak_url": "https://www.mercor.com/resources/experts/freelance-ai-training-jobs-guide/ ; https://remowork.life/blog/top-ai-training-platforms-that-pay-you-to-train-ai-models-in-2026",
+      "gelir_tahmini": "Haftada 8-10 saat (mesai dışı akşam/hafta sonu) x ortalama $20/saat ≈ ayda $640-800; hızlanıp daha yüksek ücretli 'expert' görevlere (hukuk/teknik) geçilirse $1000+ ulaşılabilir. Kaynak: yukarıdaki saatlik ücret aralıkları.",
+      "ilk_adim": "Mercor, Outlier ve DataAnnotation'a aynı hafta başvur (İngilizce CV + kısa test), onaylanan ilk platformda ücretsiz deneme görevlerini tamamla ve ödeme/hesap doğrulamasını (PayPal/Wise) ilk gün ayarla.",
+      "risk": "Görev arzı dalgalı, düşük ücretli görevlerde yoğun rekabet var; ödenmeyen 'screening' zamanı gerçek saatlik ücreti düşürüyor; platform hesabı ülke/IP kısıtlamalarına tabi olabilir, VPN gerekebilir."
+    },
+    {
+      "baslik": "AI ile Gayrimenkul Sanal Eşyalandırma (Virtual Staging) Hizmeti",
+      "ozet": "Emlakçı ve fotoğrafçıların boş/eski ev fotoğraflarını AI araçlarıyla (Virtual Staging AI, ApplyDesign, REimagineHome) saniyeler içinde mobilyalı/yenilenmiş hale getirip Fiverr/Bionluk üzerinden hizmet satmak.",
+      "neden_simdi": "2026'da AI destekli sanal eşyalandırma araçları gerçekçilik ve hız açısından olgunlaştı; Fiverr'de bu kategori aktif ve talep büyüyor, fotoğraf başına $5-30 arası ücretlendirme yaygın (https://www.fiverr.com/categories/graphics-design/architectural-design-services/virtual-staging, https://www.dmrmedia.org/blog/virtual-staging-real-estate).",
+      "kaynak_url": "https://www.dmrmedia.org/blog/virtual-staging-real-estate ; https://www.fiverr.com/gigs/virtual-home-staging",
+      "gelir_tahmini": "Fotoğraf başına $10-20 x ayda 40-60 fotoğraf (birkaç emlakçı müşterisi) ≈ $400-1200/ay; ilk ay muhtemelen $150-350 (portföy/güven oluşturma dönemi). Kaynak: Fiverr fiyat aralıkları.",
+      "ilk_adim": "Ücretsiz/düşük maliyetli bir virtual staging aracında (örn. Virtual Staging AI deneme sürümü) 5-10 örnek 'önce/sonra' görsel üret, Fiverr gig'i aç ve yerel emlak Facebook gruplarında 3 emlakçıya ücretsiz 1 örnek göndererek ilk müşteriyi bul.",
+      "risk": "Doygun bir Fiverr kategorisi, fiyat rekabeti $5'lere kadar iniyor; kalite/gerçekçilik beklentisi yüksek, telifsiz mobilya görselleri kullanma riski var; iş hacmi emlak piyasasına bağlı mevsimsel dalgalanabilir."
+    },
+    {
+      "baslik": "AI Destekli Kişiselleştirilmiş Çocuk Hikaye Kitapları (Etsy / Amazon KDP)",
+      "ozet": "Çocuğun adı, görünüşü ve hikaye temasına göre AI (görsel üretim + metin) ile kişiselleştirilmiş resimli hikaye kitapları oluşturup Etsy'de dijital/PDF veya baskı-talebinde (POD) satmak; hediye pazarına (doğum günü, yılbaşı) odaklanmak.",
+      "neden_simdi": "2026 başında yeni KDP başlıklarının %40'ından fazlasında AI kullanıldığı, kendi-yayıncılık pazarının $4.2 milyar dolara ulaştığı ve bazı Etsy kişiselleştirilmiş kitap mağazalarının yıllık $120.000+ ciro bildirdiği raporlanıyor; araç maliyeti aylık ~$29'a düştü (https://medium.com/@tamalk/this-ai-etsy-formula-creates-a-top-selling-childrens-book-makes-120-000-year-d93bab318cc9, https://saasverdicts.com/ai-childrens-storybook-generator/).",
+      "kaynak_url": "https://medium.com/@tamalk/this-ai-etsy-formula-creates-a-top-selling-childrens-book-makes-120-000-year-d93bab318cc9 ; https://lullaby.ink/blog/how-to-publish-childrens-book-amazon-kdp",
+      "gelir_tahmini": "Gerçekçi başlangıç: ilk 90 günde 5-6 kitaplık bir katalogla ayda 10-20 satış x $15-25 kâr ≈ $150-500/ay; $120k/yıl rakamı üst dilim mağazalara ait, ortalama yeni mağaza için ilk ay çoğunlukla $0-100. Kaynak: yukarıdaki KDP royalti aralıkları ve pazar verisi.",
+      "ilk_adim": "Bir niş temayı (örn. 'polis baba/kahraman temalı kişiselleştirilmiş kitap' - kendi mesleğinden ilham) seç, AI görsel+metin aracıyla 1 tam örnek kitap üret, Etsy mağazasını aç ve ilk listelemeyi yayınla.",
+      "risk": "Etsy'de kişiselleştirilmiş AI kitap kategorisi hızla doygunlaşıyor; Amazon KDP AI içerik/telif politikalarını sıkılaştırıyor (etiketleme zorunluluğu, hesap askıya alma riski); gerçek gelir çoğunlukla hacim ve pazarlamaya bağlı, tek kitapla anlamlı gelir olası değil."
+    },
+    {
+      "baslik": "AI Avatarlı 'UGC Tarzı' Reklam Videosu Üretimi (E-ticaret Markalarına)",
+      "ozet": "HeyGen/Arcads gibi araçlarla gerçek insan çekimi olmadan, AI avatarların ürünü tanıttığı kısa TikTok/Instagram/Meta reklam videoları üretip küçük e-ticaret/dropshipping markalarına Fiverr/Upwork üzerinden satmak (script + avatar + altyazı paketi).",
+      "neden_simdi": "2026'da e-ticaret markaları, ajanslar ve performans pazarlamacılarının büyük kısmı ölçekli reklam üretimi için AI UGC araçlarını zaten kullanıyor; HeyGen çok dilli/saniye bazlı ucuz render, Arcads ise hook-testing odaklı hızlı reklam üretimi sunuyor (https://magichour.ai/blog/best-ai-ugc-ad-generators-2026, https://shhots.ai/blog/heygen-vs-arcads/).",
+      "kaynak_url": "https://magichour.ai/blog/best-ai-ugc-ad-generators-2026 ; https://shhots.ai/blog/heygen-vs-arcads/",
+      "gelir_tahmini": "Fiverr'de benzer video paketleri video başına $20-60 arası satılıyor; ayda 15-20 video x $30 ortalama ≈ $450-600/ay ilk 2-3 ayda; kaynaklarda doğrudan gelir rakamı verilmiyor, tahmin fiyat aralıklarından çıkarıldı.",
+      "ilk_adim": "HeyGen/Arcads ücretsiz/başlangıç planıyla 3-4 farklı ürün nişi için örnek 15 saniyelik reklam videosu üret, Fiverr'de 'AI UGC reklam videosu' gig'i aç ve 5 küçük Instagram mağazasına örnek video göndererek ilk siparişi al.",
+      "risk": "Rekabet çok yüksek ve hızla büyüyen bir kategori; platform lisans/telif kısıtları (avatar kullanım hakları) değişebilir; markaların 'gerçek' UGC'ye geri dönme eğilimi olursa talep düşebilir; kaliteli hook/script yazımı olmadan videolar dönüşüm sağlamaz."
+    },
+    {
+      "baslik": "AI Destekli Özel Jingle / Reklam Müziği Bestesi (Suno/Udio, Fiverr/Bionluk)",
+      "ozet": "Suno veya Udio ile küçük işletmeler, podcast'ler ve yerel esnaf için özel jingle, intro müziği ve reklam şarkısı besteleyip Fiverr/Bionluk üzerinden satmak; ticari kullanım hakkı olan ücretli plana geçmek şart.",
+      "neden_simdi": "2026'da AI müzik araçları ticari kaliteye ulaştı ve Fiverr'de bu kategori aktif; bir yerel işletme sahibinin 30 dakikada üretilebilecek özel bir jingle için 150-500 Euro ödemeye razı olduğu, aylık 10 müşteriyle 1.500-5.000 Euro potansiyeli olduğu raporlanıyor (https://undetectr.com/blog/ai-music-side-hustle, https://aivillereview.com/how-to-make-money-with-suno-sell-ai-songs-intros-jingles/).",
+      "kaynak_url": "https://undetectr.com/blog/ai-music-side-hustle ; https://www.fiverr.com/resources/guides/music-audio/ai-music-generator",
+      "gelir_tahmini": "Fiverr gig fiyatları $25-150/parça; ayda 8-10 sipariş x ortalama $50 ≈ $400-800 ilk 2-3 ayda; agresif senaryoda (yerel işletmelere doğrudan satış + 150-500 Euro/parça) $1000+ mümkün. Kaynak: yukarıdaki Fiverr ve doğrudan satış rakamları.",
+      "ilk_adim": "Udio/Suno'da ücretli (ticari haklı) plana geç, 5 farklı sektör için (kafe, kuaför, e-ticaret vb.) örnek 15-30 saniyelik jingle üret, Fiverr gig'i aç ve yerel esnaf WhatsApp/Instagram sayfalarına (chatbot kurmadan, sadece tanıtım mesajı olarak) doğrudan örnek gönder.",
+      "risk": "AI müzik telif/ticari kullanım kuralları platformlar arası değişebilir (Suno/Udio dava süreçleri devam ediyor); Fiverr'de çok sayıda düşük fiyatlı rakip var; yerel işletmelerin jingle'a bütçe ayırma isteği düşük olabilir, satış için soğuk temas gerekir."
+    }
+  ],
+  "createdAt": 1790000000000
+}
