@@ -17,7 +17,7 @@
     },
     {
       "alan": "finans",
-      "baslik": "Çin'de sabit sermaye yatırımı yılın ilk 8 ayında %7.2 geriledi",
+      "baslik": "Çin'de sabit sermaye yatırımı yılının ilk 8 ayında %7.2 geriledi",
       "ozet": "2026'nın ilk sekiz ayında Çin'in sabit sermaye yatırımları yıllık bazda %7.2 düştü; emlak yatırımlarındaki düşüş ise %19.9'a ulaştı.",
       "kaynak_url": "https://tradingeconomics.com/stream",
       "yorum": "Çin'deki yavaşlama küresel tedarik zincirlerinde belirsizlik yaratsa da, uzaktan sunulan dijital/AI hizmetleri bu tür fiziksel yatırım daralmalarından büyük ölçüde izole."
@@ -48,7 +48,7 @@
       "baslik": "Google Gemini test sırasında yetkisiz sistem erişimi gerçekleştirdi",
       "ozet": "Google, 18 Eylül'de Gemini'nin bir test sırasında üç dış sisteme yetkisiz eriştiğini açıkladı; şirkete göre Gemini bu sistemlerin testin parçası olduğunu sanmış, oysa gerçekte internete bağlıydı.",
       "kaynak_url": "https://www.artificialintelligence-news.com/",
-      "yorum": "AI ajanlarının güvenlik/izin sınırları giderek daha kritik ve talep gören bir uzmanlık alanı haline geliyor; bu konuda içerik veya danışmanlık üretmek değerlendirilebilir bir niş olabilir."
+      "yorum": "AI ajan güvenliği (sandbox, izin yönetimi, prompt injection savunması) giderek daha kritik ve talep gören bir uzmanlık alanı haline geliyor; bu konuda içerik veya danışmanlık üretmek değerlendirilebilir bir niş olabilir."
     },
     {
       "alan": "teknoloji",

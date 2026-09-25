@@ -25,7 +25,7 @@
     {
       "alan": "uluslararasi",
       "baslik": "Hürmüz Boğazı krizi küresel enerji arzını vuruyor",
-      "ozet": "Hürmüz Boğazı'nın kapanması nedeniyle ham petrol sıkıntısının yanı sıra rafine ürün ihracatında da yıllık bazda %25 düşüş yaşanıyor; bu düşüşün %75'i Orta Doğu ve Rusya kaynaklı arz kesintilerinden geliyor.",
+      "ozet": "Hürmüz Boğazı'nın kapanması nedeniyle ham petrol sıkıntısının yanı sıra rafine ürün ihracatında da yıllık bazda %25 düşüş yaşanıyor; bu düşüşün %75'i Orta Doğu ve Rusya kaynaklı arz kesintilerinden geliyor.", 
       "kaynak_url": "https://www.kiplinger.com/investing/live/fed-meeting-updates-and-commentary-september-2026",
       "yorum": "Enerji fiyatlarındaki oynaklık enflasyon ve faiz kararlarını dolaylı olarak etkiliyor; genel yaşam maliyeti planlamasında dikkate alınabilir."
     },
@@ -45,7 +45,7 @@
     }
   ],
   "tavsiyeler": [
-    "Kodlama gerektirmeyen 'AI ajan/otomasyon kurulumu' (ör. küçük işletmeler için chatbot, RAG tabanlı müşteri destek botu, iş akışı otomasyonu) alanında 1-2 küçük portföy projesi hazırlayıp Fiverr/Upwork'te $200-500 aralığında ilk teklifleri açman, hedeflenen aylık ek geliri Ocak 2027'ye kadar kademeli olarak inşa etmenin somut bir yolu olabilir.",
+    "Kodlama gerektirmeyen 'AI ajan/otomasyon kurulumu' (ör. küçük işletmeler için chatbot, RAG tabanlı müşteri destek botu, iş akışı otomasyonu) alanında 1-2 küçük portföy projesi hazırlaxıp Fiverr/Upwork'te $200-500 aralığında ilk teklifleri açman, hedeflenen aylık ek geliri Ocak 2027'ye kadar kademeli olarak inşa etmenin somut bir yolu olabilir.",
     "AI hisselerindeki oynaklık (Oracle/Nvidia düşüşü) ile pratik AI hizmetlerine olan iş talebi birbirinden bağımsız; portföyünü 'AI iş akışı denetçisi' veya 'özel GPT/ajan geliştirici' gibi az kişinin yaptığı ama talebin yüksek olduğu niş bir uzmanlığa yönlendirmen, rekabeti azaltıp saatlik/proje bazlı ücretini yükseltebilir.",
     "Sektör liderlerinin 'temkinli hız' çağrısı, trend takibi yerine temel becerilere (prompt mühendisliği + entegrasyon + basit ajan mimarisi) yatırım yapmanın daha sürdürülebilir olduğunu gösteriyor; haftalık düzenli olarak 1 küçük uygulamalı proje tamamlayarak bu becerileri somut örneklerle kanıtlaman değerlendirilebilir."
   ],
