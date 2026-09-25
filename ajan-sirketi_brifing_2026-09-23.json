@@ -32,14 +32,14 @@
     {
       "alan": "uluslararasi",
       "baslik": "Trump-Takaichi görüşmesi, Çin zirvesi öncesi ittifak mesajı",
-      "ozet": "Japonya Başbakanı Sanae Takaichi, 22 Eylül'de New York'a Trump ile görüştü; taraflar Çin konusundaki görüşlerini paylaşıp ABD-Japonya ittifakını güçlendirme taahhüdünü yineledi.",
+      "ozet": "Japonya Başbakanı Sanae Takaichi, 22 Eylül'de New York'ta Trump ile görüştü; taraflar Çin konusundaki görüşlerini paylaşıp ABD-Japonya ittifakını güçlendirme taahhüdünü yineledi.",
       "kaynak_url": "https://en.sedaily.com/international/2026/09/23/takaichi-meets-trump-days-before-us-china-summit",
       "yorum": "Büyük güçler arasındaki teknoloji/ticaret dengesi yeniden şekilleniyor; tedarik zinciri ve teknoloji politikalarındaki değişimler dolaylı olarak AI sektörünü de etkileyebilir."
     },
     {
       "alan": "uluslararasi",
       "baslik": "ABD-Rusya diplomasisi: Rubio-Lavrov görüşmesi",
-      "ozet": "ABD Dışişleri Bakanı Marco Rubio, BM Genel Kurulu haftasında (20-23 Eylül) New Yorj'ta Rus mevkidaşı Sergey Lavrov ile görüştü.",
+      "ozet": "ABD Dışişleri Bakanı Marco Rubio, BM Genel Kurulu haftasında (20-23 Eylül) New York'ta Rus mevkidaşı Sergey Lavrov ile görüştü.",
       "kaynak_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/09/public-schedule-september-23-2026",
       "yorum": "Jeopolitik gerginliklerin seyri küresel piyasa oynaklığını etkileyebilir; genel farkındalık için takip değerli, doğrudan aksiyon gerektirmiyor."
     },
@@ -52,14 +52,14 @@
     },
     {
       "alan": "teknoloji",
-      "baslik": "Google'nın Intrinsic'i endüstriyel robotik yazılımını açık kaynak yaptı",
+      "baslik": "Google'ın Intrinsic'i endüstriyel robotik yazılımını açık kaynak yaptı",
       "ozet": "Alphabet'e bağlı Intrinsic, ROSCon 2026'da 'Intrinsic Core' adlı ROS uyumlu robotik altyapısını Apache 2.0 lisansıyla açık kaynak olarak yayınladı; gerçek zamanlı kontrol, Nvidia FoundationPose tabanlı poz tahmini, hareket/kavrama planlaması ve simülasyon araçlarını içeriyor.",
       "kaynak_url": "https://www.intrinsic.ai/blog/posts/introducing-intrinsic-core",
       "yorum": "Ücretsiz, endüstri standardı açık kaynak araçlarla pratik proje deneyimi kazanmak (ör. GitHub'da paylaşılabilir küçük bir demo) portföy değeri yaratabilir ve fiziksel AI/robotik alanına giriş maliyetini düşürür."
     }
   ],
   "tavsiyeler": [
-    "BM Güvenlik Konseyi'ndeki AI güvenligği/yonetisimi gündemi ve ABD-Çin AI Diyaloğu girişimi, 'AI politikaları ve sorumlu kullanım' konusunda temel bilgi edinmenin değerini artırıyor; Enes, Anthropic ve OpenAI'nin güvenlik/politika yayınlarını haftalık takip ederek küçük işletmelere yönelik basit bir 'AI kullanım rehberi/politikası hazırlama' hizmetini değerlendirebilir.",
+    "BM Güvenlik Konseyi'ndeki AI güvenliği/yönetişimi gündemi ve ABD-Çin AI Diyaloğu girişimi, 'AI politikaları ve sorumlu kullanım' konusunda temel bilgi edinmenin değerini artırıyor; Enes, Anthropic ve OpenAI'nin güvenlik/politika yayınlarını haftalık takip ederek küçük işletmelere yönelik basit bir 'AI kullanım rehberi/politikası hazırlama' hizmetini değerlendirebilir.",
     "Açık kaynak araçlarla (ör. Intrinsic Core gibi ücretsiz, endüstri destekli projeler) küçük, paylaşılabilir bir demo/proje üretmek; bunu GitHub ve LinkedIn'de portföy olarak sergilemek, Upwork/Fiverr gibi platformlarda AI entegrasyonu/otomasyon hizmetleri için güvenilirlik oluşturmada değerlendirilebilir.",
     "Güçlü dolar/yüksek faiz ortamı sürdüğü için, aylık ~$1000 hedefine yönelik gelir modelini TL yerine doğrudan dolar bazlı (uluslararası müşteri/platform) kurgulamak, kur riskini azaltma açısından değerlendirilebilir."
   ],
