@@ -27,7 +27,7 @@
       "baslik": "Trump-Şi Cinping Washington Zirvesi (23-25 Eylül)",
       "ozet": "Xi Jinping'in 2015'ten bu yana ilk ABD devlet ziyareti olarak Washington'da başlayan zirvede kritik mineraller, teknoloji ve Tayvan gündemin üst sıralarında; taraflar ayrıca AI olayları için bir bildirim mekanizması içeren bir 'ABD-Çin AI Diyaloğu' kurulmasını görüşüyor.",
       "kaynak_url": "https://www.weforum.org/stories/geo-economics-and-politics/what-to-expect-from-the-trump-xi-summit-in-washington/",
-      "yorum": "İki büyük güç arasında AI yönetişimi resmi bir diyalog konusu haline geliyor; bu alandaki gelişmeleri takip etmek, AI düzenleme/uyum konularınıa erken uzmanlaşma fırsatı sunabilir."
+      "yorum": "İki büyük güç arasında AI yönetişimi resmi bir diyalog konusu haline geliyor; bu alandaki gelişmeleri takip etmek, AI düzenleme/uyum konularında erken uzmanlaşma fırsatı sunabilir."
     },
     {
       "alan": "uluslararasi",
@@ -39,7 +39,7 @@
     {
       "alan": "uluslararasi",
       "baslik": "ABD-Rusya diplomasisi: Rubio-Lavrov görüşmesi",
-      "ozet": "ABD Dışişleri Bakanı Marco Rubio, BM Genel Kurulu haftasında (20-23 Eylül) New Yorj'ta Rus mevkidaşı Sergey Lavrov ile görüştü.",
+      "ozet": "ABD Dışişleri Bakanı Marco Rubio, BM Genel Kurulu haftasında (20-23 Eylül) New York'a Rus mevkidaşı Sergey Lavrov ile görüştü.",
       "kaynak_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/09/public-schedule-september-23-2026",
       "yorum": "Jeopolitik gerginliklerin seyri küresel piyasa oynaklığını etkileyebilir; genel farkındalık için takip değerli, doğrudan aksiyon gerektirmiyor."
     },
@@ -52,7 +52,7 @@
     },
     {
       "alan": "teknoloji",
-      "baslik": "Google'nın Intrinsic'i endüstriyel robotik yazılımını açık kaynak yaptı",
+      "baslik": "Google'ın Intrinsic'i endüstriyel robotik yazılımını açık kaynak yaptı",
       "ozet": "Alphabet'e bağlı Intrinsic, ROSCon 2026'da 'Intrinsic Core' adlı ROS uyumlu robotik altyapısını Apache 2.0 lisansıyla açık kaynak olarak yayınladı; gerçek zamanlı kontrol, Nvidia FoundationPose tabanlı poz tahmini, hareket/kavrama planlaması ve simülasyon araçlarını içeriyor.",
       "kaynak_url": "https://www.intrinsic.ai/blog/posts/introducing-intrinsic-core",
       "yorum": "Ücretsiz, endüstri standartı açık kaynak araçlarla pratik proje deneyimi kazanmak (ör. GitHub'da paylaşılabilir küçük bir demo) portföy değeri yaratabilir ve fiziksel AI/robotik alanına giriş maliyetini düşürür."

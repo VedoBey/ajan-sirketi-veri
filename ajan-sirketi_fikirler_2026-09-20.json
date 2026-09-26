@@ -13,37 +13,37 @@
     {
       "baslik": "n8n/Make AI Otomasyon Şablonu Satışı",
       "ozet": "Küçük işletmeler ve solo girişimciler için hazır n8n/Make otomasyon iş akışları (e-posta özetleme, CRM, sosyal medya, AI ajan entegrasyonu) tasarlayıp Gumroad/Whop üzerinden dijital ürün olarak satmak.",
-      "neden_simdi": "2026'da n8n şablon pazarı hızla büyüdü; bir geliştirici $19'luk tek şablondan başlayarak 9 ay içinde 5 şablonla aylık $3200'e ulaştığını, bir başkası ise yıllık $47.000 kazandığını raporluyor.",
+      "neden_simdi": "2026'da n8n şablon pazarı hızla büyüdü; bir geliştirici $19'luk tek şablondan başlayip 9 ay içinde 5 şablonla aylık $3200'e ulaştığını, bir başkası ise yıllık $47.000 kazandığını raporluyor.",
       "kaynak_url": "https://affstudio.org/2026/06/17/best-n8n-templates-to-sell-in-2026-15-automation-ideas-that-businesses-actually-pay-for/",
       "gelir_tahmini": "Şablon fiyatları $29-$299 arası; ilk ay 2-3 şablonla $100-300, 90 gün sonunda düzenli 5-10 şablonla $300-800/ay hedeflenebilir (kaynak: ritz7.ai/blog/monetize-n8n-automation-skills).",
-      "ilk_adim": "n8n'i ücretsiz kur, kendi kullandığın bir iş akışını (ör. Google Sheets -> WhatsApp bildirimi) şablonlaştır, Gumroad'da $29'luk ilk ürünü yayınla.",
+      "ilk_adim": "n8n'i ücretsiz kur, kendi kullandığın bir iş akışını (örn. Google Sheets -> WhatsApp bildirimi) şablonlaştır, Gumroad'da $29'luk ilk ürünü yayinla.",
       "risk": "Gumroad %10 (Discover üzerinden gelirse %30) komisyon alıyor; teknik mantık kurma öğrenme eğrisi var; düşük fiyatlı basit şablonlarla pazar hızla doymaya başladı."
     },
     {
       "baslik": "AI ile Eski Fotoğraf Restorasyonu ve Renklendirme Hizmeti",
       "ozet": "Ailelerin hasarlı/siyah-beyaz eski fotoğraflarını Remini, PhotoRestore.ai, Nero AI gibi araçlarla onarıp renklendirme; Fiverr ve Instagram üzerinden 'atalarınızı canlandırın' hizmeti sunmak.",
-      "neden_simdi": "2026 AI restorasyon modelleri artık hasarlı fotoğrafların büyük kısmını ucuz, hızlı ve baskıya uygun kalitede onarabiliyor; bu, önceden yalnızca pahalı manuel rötuşla mümkündü.",
+      "neden_simdi": "2026 AI restorasyon modelleri artık hasarlı fotoğrafların büyük kısmını ucuz, hızlı ve basjıya uygun kalitede onarabiliyor; bu, önceden yalnızca pahalı manuel rötuşla mümkündü.",
       "kaynak_url": "https://programminginsider.com/a-real-look-at-ai-photo-restoration-in-2026/",
-      "gelir_tahmini": "Fiverr'da fotoğraf başına $5-55 paket fiyatları var, en iyi satıcılar aylık $1000+ kazanıyor; ilk ay günde 1-2 siparişle $150-400, 90 gün sonunda $500-1000/ay ulaşılabilir.",
-      "ilk_adim": "Ücretsiz araçlarla (Nero AI/Hotpot AI) kendi aile arşivinden 5 önce/sonra örnek hazırla, Fiverr'da TR+EN gig aç, Instagram'da 'eski fotoğraf canlandırma' reels paylaş.",
+      "gelir_tahmini": "Fiverr'da fotoğraf başına $5-55 paket fiyatları var, en iyi satıcılar ayda $1000+ kazanıyor; ilk ay günde 1-2 siparişle $150-400, 90 gün sonunda $500-1000/ay ulaşılabilir.",
+      "ilk_adim": "Ücretsiz araçlarla (Nero AI/Hotpot AI) kendi aile arşivinden 5 önce/sonra örnek hazırla, Fiverr'de TR+EN gig aç, Instagram'da 'eski fotoğraf canlandırma' reels paylaş.",
       "risk": "Remini gibi tüketici uygulamaları ücretsiz/ucuz alternatif sunuyor; manuel rötuş dokunuşu ve kişisel hizmet (paketleme, baskı, çerçeveleme) ile farklılaşılmazsa doygunluk yüksek."
     },
     {
       "baslik": "Faceless AI YouTube Shorts/TikTok Kanalı",
       "ozet": "Veo/Runway gibi video üretim araçlarıyla tarih, bilim veya merak hikayeleri temalı yüzsüz kısa video kanalı kurup AdSense ve affiliate gelirle monetize etmek.",
-      "neden_simdi": "2026'da binlerce faceless AI kanalı aylık $500-$50.000 arası kazanabiliyor; ancak bu üst uçtaki istisnai örnekler, genel başarı oranı çok düşük.",
+      "neden_simdi": "2026'da binlerce faceless AI kanalı aylık $500-$50.000 arası kazanıyor; ancak bu üst dütaki istisnai örnekler, genel başarı oranı çok düşük.",
       "kaynak_url": "https://www.nexlev.io/faceless-youtube-channel-profitable",
-      "gelir_tahmini": "Dürüst tahmin: kanalların yalnızca %3'ü YouTube Partner Programı eşiğine (1000 abone/4000 izlenme saati) ulaşıyor, %97'si ilk üretim yatırımını bile çıkaramıyor; ilk 90 günde çoğu kanal $0 kazanır (kaynak: unkoa.com/faceless-youtube-10000-month-2025).",
-      "ilk_adim": "Dar bir niş seç (ör. Türk tarihi kısa hikayeleri), Veo3/Runway ile 3 pilot Shorts üret, 2 hafta boyunca günlük yayınla ve izlenme verisini analiz et.",
-      "risk": "En yüksek riskli fikir bu listede — doygunluk çok yüksek, algoritma/politika değişiklikleri büyük risk; kısa vadede gelir garantisi yok; sabır ve uzun vadeli deneme gerektirir."
+      "gelir_tahmini": "Dürüst tahmin: kanalların yalnızca %3'ü YouTube Partner Programı eşiğine (1000 abone/4000 izlenme saati) ulaşıyor, %97'si ilk üretim yatırımını bile çqkaramıyor; ilk 90 günde çoqu kanal $0 kazanır (kaynak: unkoa.com/faceless-youtube-10000-month-2025).",
+      "ilk_adim": "Dar bir niş seç (örn. Türk tarihi kısa hikayeleri), Veo3/Runway ile 3 pilot Shorts üret, 2 hafta boyunca günlük yayınla ve izlenme verisini analiz et.",
+      "risk": "En xüksek riskli fikir bu listede — doygunluk çok yüksek, algoritma/politika değişiklikleri büyük risk, kısa vadede gelir garantisi yok; sabır ve uzun vadeli deneme gerektirir."
     },
     {
       "baslik": "Küçük İşletmelere AI Avatar Tanıtım/Reklam Videosu Üretimi",
-      "ozet": "HeyGen/Synthesia ile esnaf, e-ticaret ve yerel işletmeler için kamera/oyuncu gerektirmeyen düşük maliyetli tanıtım ve ürün videoları üretip paket halinde satmak (chatbot kurulumu değil, video üretim hizmeti).",
+      "ozet": "HeyGen/Synthesia ile esnaf, e-ticaret ve yerel ışletmeler için kamera/oyuncu gerektirmeyen düşük maliyetli tanıtım ve ürün videoları üretip paket halinde satmak (chatbot kurulumu değil, video üretim hizmeti).",
       "neden_simdi": "HeyGen artık 100.000'den fazla işletmeye hizmet veriyor ve araçlar aylık $18-24'ten başlıyor, bu da düşük maliyetle yüksek kâr marjlı bir hizmet sunmayı mümkün kılıyor.",
       "kaynak_url": "https://www.heygen.com/blog/best-ai-avatar-generators",
       "gelir_tahmini": "Benzer video hizmetlerinde paket fiyatları $50-150/video; ilk ay 3-5 müşteriyle $200-500, 90 günde düzenli 8-10 müşteri/ay ile $600-1200 potansiyeli (doğrudan gelir verisi sınırlı, temkinli yaklaşılmalı).",
-      "ilk_adim": "HeyGen/Synthesia ücretsiz denemesiyle 2-3 sektöre özel örnek video (kuaför, restoran, e-ticaret) hazırla, yerel esnaf gruplarında/Instagram'da paylaş. $50'lık başlangıç paketi teklif et.",
+      "ilk_adim": "HeyGen/Synthesia ücretsiz denemesiyle 2-3 sektöre özel örnek video (kuaför, restoran, e-ticaret) hazırla, yerel esnaf gruplarında/Instagram'da paylaş, $50'lık başlangıç paketi teklif et.",
       "risk": "Soğuk satış ve müşteri ilişkisi gerektirir, tam pasif değil; küçük işletmelere hizmet satışı genelde yavaş kapanır; doygunluk şu an düşük-orta ama hızla büyüyen bir alan."
     }
   ],
