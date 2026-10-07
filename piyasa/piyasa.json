@@ -1,9 +1,9 @@
 {
- "guncelleme": "2026-10-07T14:48:14+03:00",
+ "guncelleme": "2026-10-07T15:03:26+03:00",
  "kaynak": "Truncgil Finans (finans.truncgil.com)",
  "yazan": "Mac yerel betiği",
  "durum": "hata",
- "hata": "Remote end closed connection without response",
+ "hata": "Expecting ',' delimiter: line 1 column 6830 (char 6829)",
  "sonBasarili": "2026-10-07T14:17:59+03:00",
  "kaynakSaati": "2026-10-07 14:17:01",
  "kalemler": [
