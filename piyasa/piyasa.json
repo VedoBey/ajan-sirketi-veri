@@ -1,9 +1,9 @@
 {
- "guncelleme": "2026-10-08T10:20:25+03:00",
+ "guncelleme": "2026-10-08T10:35:29+03:00",
  "kaynak": "Truncgil Finans (finans.truncgil.com)",
  "yazan": "Mac yerel betiği",
- "durum": "ok",
- "hata": null,
+ "durum": "hata",
+ "hata": "Expecting value: line 1 column 6778 (char 6777)",
  "sonBasarili": "2026-10-08T10:20:25+03:00",
  "kaynakSaati": "2026-10-08 10:20:02",
  "kalemler": [
