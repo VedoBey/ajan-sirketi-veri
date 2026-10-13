@@ -1,9 +1,9 @@
 {
- "guncelleme": "2026-10-14T00:07:19+03:00",
+ "guncelleme": "2026-10-14T00:22:31+03:00",
  "kaynak": "Truncgil Finans (finans.truncgil.com)",
  "yazan": "Mac yerel betiği",
  "durum": "hata",
- "hata": "Unterminated string starting at: line 1 column 6702 (char 6701)",
+ "hata": "Remote end closed connection without response",
  "sonBasarili": "2026-10-13T23:52:12+03:00",
  "kaynakSaati": "2026-10-13 23:52:01",
  "kalemler": [
