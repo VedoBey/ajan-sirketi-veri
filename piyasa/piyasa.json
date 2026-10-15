@@ -1,9 +1,9 @@
 {
- "guncelleme": "2026-10-16T00:52:00+03:00",
+ "guncelleme": "2026-10-16T01:07:03+03:00",
  "kaynak": "Truncgil Finans (finans.truncgil.com)",
  "yazan": "Mac yerel betiği",
- "durum": "ok",
- "hata": null,
+ "durum": "hata",
+ "hata": "Remote end closed connection without response",
  "sonBasarili": "2026-10-16T00:52:00+03:00",
  "kaynakSaati": "2026-10-16 00:51:01",
  "kalemler": [
