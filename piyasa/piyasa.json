@@ -1,9 +1,9 @@
 {
- "guncelleme": "2026-10-29T16:56:56+03:00",
+ "guncelleme": "2026-10-29T17:12:07+03:00",
  "kaynak": "Truncgil Finans (finans.truncgil.com)",
  "yazan": "Mac yerel betiği",
  "durum": "hata",
- "hata": "Unterminated string starting at: line 1 column 6766 (char 6765)",
+ "hata": "Unterminated string starting at: line 1 column 6755 (char 6754)",
  "sonBasarili": "2026-10-29T15:25:43+03:00",
  "kaynakSaati": "2026-10-29 15:25:01",
  "kalemler": [
