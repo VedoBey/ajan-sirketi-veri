@@ -1,11 +1,11 @@
 {
- "guncelleme": "2026-11-01T02:42:02+03:00",
+ "guncelleme": "2026-11-01T05:11:46+03:00",
  "kaynak": "Truncgil Finans (finans.truncgil.com)",
  "yazan": "Mac yerel betiği",
  "durum": "ok",
  "hata": null,
- "sonBasarili": "2026-11-01T02:42:02+03:00",
- "kaynakSaati": "2026-11-01 02:42:01",
+ "sonBasarili": "2026-11-01T05:11:46+03:00",
+ "kaynakSaati": "2026-11-01 05:11:01",
  "kalemler": [
   {
    "k": "altin",
@@ -36,8 +36,8 @@
   }
  ],
  "kontrol": {
-  "tcmbUsd": 49.8644,
-  "tcmbEur": 55.8153,
-  "uyum": true
+  "tcmbUsd": null,
+  "tcmbEur": null,
+  "uyum": null
  }
 }
