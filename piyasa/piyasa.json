@@ -1,38 +1,38 @@
 {
- "guncelleme": "2026-11-02T19:59:30+03:00",
+ "guncelleme": "2026-11-02T20:14:36+03:00",
  "kaynak": "Truncgil Finans (finans.truncgil.com)",
  "yazan": "Mac yerel betiği",
  "durum": "ok",
  "hata": null,
- "sonBasarili": "2026-11-02T19:59:30+03:00",
- "kaynakSaati": "2026-11-02 19:59:01",
+ "sonBasarili": "2026-11-02T20:14:36+03:00",
+ "kaynakSaati": "2026-11-02 20:14:01",
  "kalemler": [
   {
    "k": "altin",
    "ad": "Gram altın",
    "birim": "TL",
-   "deger": 6373.21,
-   "alis": 6372.24,
-   "satis": 6373.21,
-   "degisimYuzde": 2.42
+   "deger": 6374.36,
+   "alis": 6373.46,
+   "satis": 6374.36,
+   "degisimYuzde": 2.43
   },
   {
    "k": "usd",
    "ad": "Dolar",
    "birim": "USD/TRY",
-   "deger": 49.9684,
-   "alis": 49.966,
-   "satis": 49.9684,
+   "deger": 49.9688,
+   "alis": 49.9648,
+   "satis": 49.9688,
    "degisimYuzde": 0.05
   },
   {
    "k": "eur",
    "ad": "Euro",
    "birim": "EUR/TRY",
-   "deger": 56.02,
-   "alis": 56.0121,
-   "satis": 56.02,
-   "degisimYuzde": 0.45
+   "deger": 56.039,
+   "alis": 56.0269,
+   "satis": 56.039,
+   "degisimYuzde": 0.48
   }
  ],
  "kontrol": {
