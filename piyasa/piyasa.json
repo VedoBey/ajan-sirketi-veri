@@ -1,11 +1,11 @@
 {
- "guncelleme": "2026-11-21T11:30:43+03:00",
+ "guncelleme": "2026-11-21T12:32:47+03:00",
  "kaynak": "Truncgil Finans (finans.truncgil.com)",
  "yazan": "Mac yerel betiği",
- "durum": "hata",
- "hata": "<urlopen error [Errno 8] nodename nor servname provided, or not known>",
- "sonBasarili": "2026-11-21T10:26:51+03:00",
- "kaynakSaati": "2026-11-21 10:26:01",
+ "durum": "ok",
+ "hata": null,
+ "sonBasarili": "2026-11-21T12:32:47+03:00",
+ "kaynakSaati": "2026-11-21 12:32:01",
  "kalemler": [
   {
    "k": "altin",
